@@ -9,7 +9,7 @@
     text-align: center;
 }
 .rseconday-bg{
-background-color: #F9DBC5;
+background-color: #ecbb98;
 }
 
 .sec-title{
@@ -123,4 +123,41 @@ nav ul li a {
     padding: 30px;
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0px #615757;
+}
+.resume-container{
+    display: flex;
+    gap: 30px;
+}
+.experience-description,.experience-description{
+    color: #757575;
+}
+.experience-title{
+    color: #474747;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.resume hr {
+    margin: 30px;
+}
+.resume-download{
+    margin-top: 50px;
+}
+.play{
+    padding: 130px;
+    display: flex;
+    text-align: center;
+
+    gap: 200px;
+}
+.footer-input{
+    margin-bottom: 24px;
+    height: 65px;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+padding: 10px;
+border: none;
+
+
 }
